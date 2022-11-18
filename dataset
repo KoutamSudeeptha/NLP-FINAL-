@@ -1,0 +1,2 @@
+we have used the facebook/bart-large-cnn pretrained model and that model is trained with the following data:
+https://huggingface.co/datasets/cnn_dailymail
